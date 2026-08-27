@@ -1,0 +1,19 @@
+# Canonical Ghostty configuration used by cmux.
+# The previous cmux-specific config is preserved in the terminal-config backup.
+
+theme = Catppuccin Mocha
+font-family = JetBrainsMono Nerd Font Mono
+font-size = 14
+
+cursor-style = bar
+cursor-style-blink = true
+mouse-hide-while-typing = true
+
+background-opacity = 0.96
+background-blur = 20
+unfocused-split-opacity = 0.92
+split-divider-color = #45475a
+
+window-padding-x = 8
+window-padding-y = 6
+scrollback-limit = 50000000

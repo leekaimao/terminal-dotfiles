@@ -1,0 +1,8 @@
+.DS_Store
+*.local
+local.zsh
+secrets/
+.env
+.env.*
+!.env.example
+config/git/user.gitconfig

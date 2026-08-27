@@ -1,0 +1,13 @@
+# Local-only Atuin history. No account or sync service is configured.
+auto_sync = false
+update_check = false
+search_mode = "fuzzy"
+filter_mode = "workspace"
+workspaces = true
+style = "compact"
+inline_height = 40
+show_preview = true
+secrets_filter = true
+enter_accept = false
+keymap_mode = "emacs"
+store_failed = true

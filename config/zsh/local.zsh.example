@@ -1,0 +1,4 @@
+# Copy to ~/.config/terminal-dotfiles/local.zsh and keep it out of Git.
+# Prefer macOS Keychain or your organization-managed secret store.
+
+# export EXAMPLE_API_KEY="$(security find-generic-password -a "$USER" -s 'example-api-key' -w 2>/dev/null)"
